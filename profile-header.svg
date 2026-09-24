@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">SkyAiram — Backend Developer / Desarrolladora Backend</title>
+  <desc id="desc">Banner Y2K rosa con una ventana retro, una órbita plateada y estrellas discretas.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FFF5FA"/><stop offset="1" stop-color="#EDB5D0"/></linearGradient>
+    <linearGradient id="chrome" x2="0.4" y2="1"><stop stop-color="#fff"/><stop offset="0.3" stop-color="#A5A1AF"/><stop offset="0.52" stop-color="#fff"/><stop offset="0.75" stop-color="#B0A7B8"/><stop offset="1" stop-color="#F7EDF6"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8A496D" stroke-opacity="0.08"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <rect x="48" y="38" width="1104" height="284" rx="16" fill="#FFF9FC" fill-opacity="0.7" stroke="#BC7197"/>
+  <path d="M48 82H1152" stroke="#BC7197"/>
+  <g fill="#86516D"><circle cx="72" cy="60" r="4"/><circle cx="88" cy="60" r="4"/><circle cx="104" cy="60" r="4"/></g>
+  <text x="128" y="65" font-family="Consolas,monospace" font-size="13" letter-spacing="2" fill="#71405B">SKYAIRAM / BACKEND DEVELOPMENT</text>
+  <text x="90" y="186" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="76" letter-spacing="-3" fill="#49243C">SkyAiram</text>
+  <text x="94" y="225" font-family="Consolas,monospace" font-size="16" letter-spacing="2" fill="#824061">BACKEND DEVELOPER</text>
+  <text x="94" y="249" font-family="Consolas,monospace" font-size="13" letter-spacing="2" fill="#824061">DESARROLLADORA BACKEND</text>
+  <rect x="94" y="270" width="370" height="26" rx="13" fill="#F3D2E3" stroke="#BD7C9F"/>
+  <text x="279" y="287" text-anchor="middle" font-family="Consolas,monospace" font-size="11" letter-spacing="1" fill="#63344E">JAVA / SPRING BOOT / SQL / MONGODB</text>
+  <g transform="translate(935 192)">
+    <circle r="66" fill="#F0B5D2" fill-opacity="0.35" stroke="#BA7298"/>
+    <ellipse rx="133" ry="40" transform="rotate(-28)" fill="none" stroke="#9C8395" stroke-width="12"/>
+    <ellipse rx="133" ry="40" transform="rotate(-28)" fill="none" stroke="url(#chrome)" stroke-width="9"/>
+    <path d="M0-50 10-12 48 0 10 12 0 50-10 12-48 0-10-12Z" fill="url(#chrome)" stroke="#9F7C95"/>
+    <path d="M114-83 118-68 133-64 118-60 114-45 110-60 95-64 110-68Z" fill="#89506F"/>
+    <path d="M-107 69-103 81-91 85-103 89-107 101-111 89-123 85-111 81Z" fill="#89506F"/>
+  </g>
+</svg>
